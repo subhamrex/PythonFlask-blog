@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+      "local_server": "True",
+      "local_uri": "mysql+pymysql://root:@localhost/codingzone",
+      "prod_uri": "mysql+pymysql://root:@localhost/codingzone",
+      "gmail_user":"GivemeYour@gmail.com",
+      "gmail_pass":"GiveMePass",
+      "no_of_posts": 2,
+      "login_image":"login.svg",
+      "admin_user":"Rex",
+    "admin_password": "1234",
+    "upload_loc":"C:\\Users\\SUBHAMREX\\Desktop\\VSCode_File\\flask_Test\\static\\img"
+
+  }
+
+}
